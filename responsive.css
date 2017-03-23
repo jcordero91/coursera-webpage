@@ -8,5 +8,8 @@ div.one-third-second {
 }
 
 div.one-third-last {
-	margin: 0;
+	clear: both;
+	float: none;
+	width: auto;
+	padding: 20px 0 0 0;
 }
