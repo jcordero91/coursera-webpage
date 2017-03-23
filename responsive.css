@@ -1,16 +1,18 @@
 div.one-third {
 	width: 47.5%;
+	margin:0px auto;
 }
 
 div.one-third-second {
-	margin: 0;
+	width:700px;
+	float: left;
+	background: blue;
 	
 }
 
 div.one-third-last {
-	clear: both;
-	float: none;
-	width: auto;
+	float: left;
+	width: 260px;
 	padding: 20px 0 0 0;
 }
 
