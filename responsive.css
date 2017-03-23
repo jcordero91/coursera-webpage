@@ -1,12 +1,12 @@
 div.one-third {
-	width: 47.5%;
+	width: 960px;
 	margin:0px auto;
 }
 
 div.one-third-second {
 	width:700px;
 	float: left;
-	background: blue;
+	
 	
 }
 
@@ -18,10 +18,16 @@ div.one-third-last {
 
 @media screen and (max-width: 500%) {
 
-  div.mobile-collapse {
-  	width:  auto;
-  	float: none;
-  	margin-right: 0;
+  .one-third {
+  	width: 100%;
+  }
+
+  .one-third-second {
+  	width: 70%;
+  }
+
+  .one-third-last {
+  	width: 30%;
   }
 
 }
