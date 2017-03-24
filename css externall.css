@@ -43,7 +43,7 @@ h4 {
 
 section {
 	background-color: gray;
-	width: 380px;
+	width: 150px;
 	height: 355px;
 	padding: 5px;
 	margin: 6px;
@@ -58,8 +58,8 @@ section {
 
 article {
 	background-color: gray;
-	width: 100%;
-	height: auto;
+	width: 150px;
+	height: 355px;
 	padding: 5px;
     margin: 15px;
     position: absolute;
