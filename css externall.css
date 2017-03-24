@@ -61,7 +61,7 @@ article {
 	max-width: 100%;
 	height: auto;
 	padding: 5px;
-    margin: 0 0 10px 0;
+    margin: 15px;
     position: absolute;
     top: 150px;
     right: 180px;
@@ -75,7 +75,7 @@ aside {
 	max-width: 100%;
 	height: auto;
 	padding: 5px;
-    margin: 0 0 10px 0;
+    margin: 15px;
     position: absolute;
     top: 150px;
     right: 290px;
