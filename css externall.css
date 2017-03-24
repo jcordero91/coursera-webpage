@@ -58,7 +58,7 @@ section {
 
 article {
 	background-color: gray;
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 	padding: 5px;
     margin: 15px;
@@ -71,8 +71,8 @@ article {
 
 
 aside {
-   background-color: gray;
-	max-width: 100%;
+    background-color: gray;
+	width: 100%;
 	height: auto;
 	padding: 5px;
     margin: 15px;
