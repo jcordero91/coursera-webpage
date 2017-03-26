@@ -32,4 +32,23 @@ div.one-third-last {
 
 }
 
+@media (min-width: 950px) and (max-width: 1199px) {
+
+ .one-third {
+ 	float: left;
+ }
+
+ .one-third-second {
+   width: 700px;
+   float: left;
+}
+ 
+
+ .one-third-last {
+ 	width: 30px;
+ 	padding: 20px 0 0 0;
+ }
+
+
+
 
