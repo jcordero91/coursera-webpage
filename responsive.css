@@ -16,18 +16,18 @@ div.one-third-last {
 	padding: 20px 0 0 0;
 }
 
-@media screen and (max-width: 500%) {
+@media screen and (max-width: 500px) {
 
   .one-third {
-  	width: 100%;
+  	width: 100px;
   }
 
   .one-third-second {
-  	width: 70%;
+  	width: 70px;
   }
 
   .one-third-last {
-  	width: 30%;
+  	width: 30px;
   }
 
 }
