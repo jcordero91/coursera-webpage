@@ -2,3 +2,10 @@ h1 {
 	text-align: center;
 	color: black;
 }
+
+
+#header-nav {
+	background-color: blue;
+	border-radius: 0;
+	border: 0;
+}
