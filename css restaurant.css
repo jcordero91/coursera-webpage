@@ -20,6 +20,8 @@ h1 {
 .navbar-brand {
 	padding-top: 25px;
 	background: url( "kosher certificate.jpg") no-repeat;
+	width: 150px;
+	height: 150px;
 
 }
 
