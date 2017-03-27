@@ -9,3 +9,10 @@ h1 {
 	border-radius: 0;
 	border: 0;
 }
+
+#logo-img {
+	background: url("china-wok.jpg") no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
