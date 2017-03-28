@@ -92,6 +92,11 @@ aside {
 
 p {
 	background-color: gray;
+	margin: 18px;
+	width: 350px;
+	height: 350px;
+	padding:  17px;
+	margin: 20px;
 }
 
 
