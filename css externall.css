@@ -15,7 +15,7 @@ h1 {
 
 
 
-p {
+h2 {
 	background-color: gray;
 	width: 104px;
 	height: 52px;
@@ -48,7 +48,7 @@ h4 {
 
 
 
-.section {
+section {
 	background-color: gray;
 	width: 350px;
 	height: 395px;
@@ -61,7 +61,7 @@ h4 {
 
 
 
-.article {
+article {
 	background-color: gray;
 	width: 350px;
 	height: 385px;
@@ -76,7 +76,7 @@ h4 {
 }
 
 
-.aside {
+aside {
     background-color: gray;
 	width: 350px;
 	height: 400px;
