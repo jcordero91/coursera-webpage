@@ -24,13 +24,13 @@ h1 {
 
 .section {
 	background-color: red;
-	width: 80px;
-	height: 45px;
-	padding: 5px;
-	margin: 16px;
+	width: 85px;
+	height: 34px;
+	padding: 8px;
+	margin: 21px;
 	border-style: solid;
 	position: absolute;
-  left: 275px;
+  left: 265px;
 	
 }
 
@@ -38,14 +38,13 @@ h1 {
 
 .article {
 	background-color: yellow;
-	width: 80px;
-	height: 45px;
-	padding: 5px;
-  margin: 15px;
+	width: 85px;
+	height: 35px;
+	padding: 8px;
+  margin: 21px;
   position: absolute;
-  top: 6px;
   border-style: solid;
-  left: 340px;
+  left: 265px;
   text-align: center;
 
 }
@@ -53,7 +52,7 @@ h1 {
 
 .aside {
   background-color: pink;
-	width: 80px;
+	width: 83px;
 	height: 45px;
 	padding: 5px;
   margin: 15px;
@@ -61,7 +60,7 @@ h1 {
   top: 6px;
   right: 290px;
   border-style: solid;
-  left: 338px;
+  left: 274px;
   text-align: center;
 
 }
