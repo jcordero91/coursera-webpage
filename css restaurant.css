@@ -105,6 +105,43 @@ h1 {
 }
 
 
+/* END HEADER */
+
+/******** Large devices only ********/
+@media (min-width: 120px) {
+
+
+}
 
 
 
+/******** Medium devices only **********/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	/*Header*/
+   #logo-img {
+	background: url("chinawok.png") no-repeat;
+	width: 100px;
+	height: 100px;
+	margin: 5px 5px 5px 0;
+}
+ /* End Header */
+}
+
+
+
+/********** Small devices only *******/
+@media (min-width: 767px) and (max-width: 991px) {
+
+}
+
+
+/********** Extra small devices only ***********/
+@media (max-width: 767px) {
+
+
+}
+
+
+ 
