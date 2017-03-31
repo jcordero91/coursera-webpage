@@ -25,8 +25,7 @@ h1 {
 
 .navbar-brand {
 	padding-top: 25px;
-	width: 150px;
-	height: 150px;
+
 }
 
 .navbar-brand h1 { /* Restauranr name */
@@ -58,6 +57,13 @@ h1 {
 
 .navbar-brand p span { /* Star-k */
 	vertical-align: middle;
+}
+
+
+
+.Kosher-img {
+	width: 150px;
+	height: 150px;
 }
 
 
