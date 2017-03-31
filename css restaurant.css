@@ -1,5 +1,5 @@
 body {
-	background-color: yellow;
+	background-color: maroon;
 }
 
 
@@ -10,7 +10,7 @@ h1 {
 
 /** Header **/
 #header-nav {
-	background-color: blue;
+	background-color: yellow;
 	border-radius: 0;
 	border: 0;
 }
