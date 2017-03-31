@@ -25,6 +25,8 @@ h1 {
 
 .navbar-brand {
 	padding-top: 25px;
+	width: 150px;
+	height: 150px;
 }
 
 .navbar-brand h1 { /* Restauranr name */
