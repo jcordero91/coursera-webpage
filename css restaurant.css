@@ -35,14 +35,7 @@ h1 {
 .navbar-brand h1 {
 	font-family: 'Lora', serif;
 	color: yellow;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	font-weight: bold;
-	text-shadow: 3px 1px 1px #222;
-	margin-top: 0;
-	margin-bottom: 0;
-	line-height: .75;
-	display: inline-block;
+	
 }
 
 
