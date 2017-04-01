@@ -107,6 +107,9 @@ h1 {
 /******** Large devices only ********/
 @media (min-width: 120px) {
 
+.navbar-brand p img { /* Star-k */
+  height: 20px;
+}
 
 }
 
