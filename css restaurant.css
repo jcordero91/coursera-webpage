@@ -119,6 +119,22 @@ h1 {
 }
 
 
+#menu-tile {
+  background: url('menu-tile.jpg') no-repeat;
+  background-position: center;
+}
+#specials-tile {
+  background: url('specials-tile.jpg') no-repeat;
+  background-position: center;
+}
+
+
+
+
+
+
+
+
 /******** Large devices only ********/
 @media (min-width: 1200px) {
 
