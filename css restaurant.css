@@ -111,7 +111,7 @@ h1 {
   height: 20px;
 }
 
-.container.jumbotron {
+.container .jumbotron {
 	background: url('jumbotron_1200.jpg') no-repeat;
 	height: 675px;
 	
@@ -126,7 +126,7 @@ h1 {
 @media (min-width: 992px) and (max-width: 1199px) {
 
 	
-.container.jumbotron {
+.container .jumbotron {
 	background: url('jumbotron_992.jpg') no-repeat;
 	height: 558px;
 	
@@ -139,7 +139,7 @@ h1 {
 /********** Small devices only *******/
 @media (min-width: 768px) and (max-width: 991px) {
 
-.container.jumbotron {
+.container .jumbotron {
 	background: url('jumbotron_768.jpg') no-repeat;
 	height: 432px;
 	
@@ -174,11 +174,11 @@ h1 {
   height: 20px;
 }
 
-.container.jumbotron {
+.container .jumbotron {
 	margin-top: 30px;
 	padding: 0;
 	
 }
 
 
- 
+ }
