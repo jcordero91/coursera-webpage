@@ -239,4 +239,12 @@ h1 {
 }
 
 
+#menu-tile, #specials-tile {
+	margin-top: 30px;
+	padding: 0;
+}
+
+
+
+
  }
