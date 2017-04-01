@@ -119,11 +119,12 @@ h1 {
 }
 
 
-#menu-tile {
+.menu-tile {
   background: url('menu-tile.jpg') no-repeat;
   background-position: center;
 }
-#specials-tile {
+
+.specials-tile {
   background: url('specials-tile.jpg') no-repeat;
   background-position: center;
 }
