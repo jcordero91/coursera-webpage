@@ -114,13 +114,14 @@ h1 {
   padding-bottom: 30px;
   background-color: #222;
   border-top: 0;
+  color: white;
 }
 .panel-footer div.row {
   margin-bottom: 35px;
 }
 #hours, #address {
   line-height: 2;
-  color: white;
+  
 }
 #hours > span, #address > span {
   font-size: 1.3em;
