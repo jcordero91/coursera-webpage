@@ -120,6 +120,7 @@ h1 {
 }
 #hours, #address {
   line-height: 2;
+  color: white;
 }
 #hours > span, #address > span {
   font-size: 1.3em;
@@ -128,6 +129,7 @@ h1 {
   color: #557c3e;
   font-size: .8em;
   line-height: 1.8;
+  color: white;
 }
 #testimonials {
   font-style: italic;
