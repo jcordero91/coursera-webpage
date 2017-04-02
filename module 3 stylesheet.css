@@ -3,9 +3,7 @@ body {
 }
 
 
-h1 {
-  text-align: center;
-}
+
 
 
 /**HEADER**/
@@ -13,6 +11,7 @@ h1 {
 #header-nav {
 	border-radius: 0;
 	border: 0;
+	right: 34px;
 }
 
 
@@ -33,4 +32,9 @@ h1 {
 	margin-bottom: 0;
 	line-height: .75;
 	
+}
+
+
+.navbar-default .navbar-toggle {
+
 }
