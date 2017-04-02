@@ -176,6 +176,17 @@ h1 {
 }
 
 
+
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+
+
 }
 
 
@@ -190,6 +201,17 @@ h1 {
 	
 }
 
+
+
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+
 }
 
 
@@ -201,6 +223,16 @@ h1 {
 	background: url('jumbotron_768.jpg') no-repeat;
 	height: 432px;
 	
+}
+
+
+
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
 }
 
 
@@ -249,6 +281,18 @@ h1 {
    font-size: 1.2em;
  }
 
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+
+
+
+
 
  }
 
@@ -267,6 +311,20 @@ h1 {
     width: 280px;
     margin: 0 auto 15px;
   }
+
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+
+
+
+
+
+
 }
 
 
