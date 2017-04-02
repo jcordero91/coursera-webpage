@@ -245,6 +245,12 @@ h1 {
 
 }
 
+#collapsable-nav a { /* Collapsed nav menu */
+   font-size: 1.2em;
+ }
+
+
+ }
 
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
