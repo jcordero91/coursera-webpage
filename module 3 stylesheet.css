@@ -45,6 +45,8 @@ body {
 
 
 
-.p {
 
+.navbar-brand p {
+	text-align: center;
+	color: black;
 }
