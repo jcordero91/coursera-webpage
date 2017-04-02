@@ -131,6 +131,8 @@ h1 {
 }
 #testimonials {
   font-style: italic;
+  color: white;
+
 }
 #testimonials p:nth-child(2) {
   margin-top: 25px;
