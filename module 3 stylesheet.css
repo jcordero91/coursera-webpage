@@ -38,6 +38,25 @@ body {
 }
 
 
+.p {
+	color: black;
+	margin: 0 0 10px;
+	text-align: center;
+
+}
+
+
+
+
+.chicken {
+	background-color: red;
+	color: black;
+	border: 5px;
+}
+
+
+
+
 .dropdown {
     position: relative;
     display: inline-block;
@@ -45,7 +64,3 @@ body {
 
 
 
-.navbar-brand text-center {
-	text-align: center;
-
-}
