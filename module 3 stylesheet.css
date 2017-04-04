@@ -38,21 +38,19 @@ body {
 }
 
 
-.p {
+.text-center {
 	color: black;
-	margin: 0 0 10px;
+	margin: 0 9 10px;
 	text-align: center;
+	border-style: solid;
+	border: 3px;
 
 }
 
 
 
 
-.chicken {
-	background-color: red;
-	color: black;
-	border: 5px;
-}
+
 
 
 
