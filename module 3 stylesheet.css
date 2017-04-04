@@ -48,13 +48,18 @@ body {
 }
 
 
-.p {
+.div.chicken { /* Dummy Text */
 	border-style: solid;
-	margin: 9px;
+	margin: 30px;
 	color: black;
 }
 
 
+
+.h2 {
+	font-size: 21px;
+	color: black;
+}
 
 
 
