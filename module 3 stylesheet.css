@@ -38,7 +38,7 @@ body {
 }
 
 
-.text-center {
+.text-center { /* Our Menu */
 	color: black;
 	margin: 0 9 10px;
 	text-align: center;
@@ -47,6 +47,13 @@ body {
 
 }
 
+
+.navbar-default, .navbar-brand {
+	color: black;
+	border-style: solid;
+	margin: 5px;
+	padding: 9px;
+}
 
 
 
