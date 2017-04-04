@@ -1,5 +1,5 @@
 body {
-	background-color: Gray;
+	background-color: white;
 }
 
 
@@ -15,7 +15,7 @@ body {
 }
 
 
-.navbar-brand { /*narbar title */
+.navbar-header { /*narbar title */
 	padding-top: 25px;
 	color: green;
 	text-align: center;
@@ -38,7 +38,7 @@ body {
 }
 
 
-.text-center { /* Our Menu */
+.Menu { /* Our Menu */
 	color: black;
 	margin: 0 9 10px;
 	text-align: center;
