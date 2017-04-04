@@ -15,7 +15,7 @@ body {
 }
 
 
-.navbar-brand {
+.navbar-brand { /*narbar title */
 	padding-top: 25px;
 	color: green;
 	text-align: center;
@@ -52,7 +52,7 @@ body {
 	border-style: solid;
 	margin: 30px;
 	color: black;
-	
+
 }
 
 
