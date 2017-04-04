@@ -48,10 +48,11 @@ body {
 }
 
 
-.div.chicken { /* Dummy Text */
+.p { /* Dummy Text */
 	border-style: solid;
 	margin: 30px;
 	color: black;
+	
 }
 
 
