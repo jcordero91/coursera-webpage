@@ -48,11 +48,9 @@ body {
 }
 
 
-.div.Chicken {
-	color: black;
+.element.style {
 	border-style: solid;
-	margin: 5px;
-	padding: 9px;
+	margin: 9px;
 }
 
 
