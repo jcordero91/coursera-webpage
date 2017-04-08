@@ -50,7 +50,7 @@ body {
 }
 
 
-.p { /* Dummy Text */
+.col-md-12 { /* Dummy Text */
 	border-style: solid;
 	margin: 30px;
 	color: black;
@@ -60,7 +60,7 @@ body {
 
 
 .h2 {
-	font-size: 16px;
+	font-size: 21px;
 	color: black;
 	border-style: black;
 	background-color: yellow;
