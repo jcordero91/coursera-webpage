@@ -60,8 +60,10 @@ body {
 
 
 .h2 {
-	font-size: 21px;
+	font-size: 16px;
 	color: black;
+	border-style: black;
+	background-color: yellow;
 }
 
 
