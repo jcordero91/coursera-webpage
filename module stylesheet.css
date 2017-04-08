@@ -52,8 +52,11 @@ body {
 
 .col-md-12 { /* Dummy Text */
 	border-style: solid;
-	margin: 30px;
+	margin: 12px;
 	color: black;
+	padding: 13px;
+	width: 630px;
+
 
 }
 
