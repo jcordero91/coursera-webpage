@@ -48,7 +48,7 @@ body {
 
 .navbar-nav{ /*Dropdown menu */
   text-align: center;
-  border-style: solid;
+  border-bottom: solid;
 }
 
 
