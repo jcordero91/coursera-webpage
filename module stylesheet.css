@@ -16,28 +16,6 @@ body {
 }
 
 
-.navbar-header { /*narbar title */
-	padding-top: 25px;
-	color: green;
-	text-align: center;
-
-
-}
-
-
-.navbar-brand h1 { /* Restaurant name */
-	font-family: 'Lora', serif;
-	color: green;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	font-weight: bold;
-	text-shadow: 1px 1px 1px #222;
-	margin-top: 0;
-	margin-bottom: 0;
-	line-height: .75;
-	
-}
-
 
 .Menu { /* Our Menu */
 	color: black;
@@ -68,14 +46,12 @@ body {
 	background-color: yellow;
 }
 
-
-
-
-
-.dropdown {
-    position: relative;
-    display: inline-block;
+.navbar-collapse {
+  text-align: center;
 }
+
+
+
 
 
 
