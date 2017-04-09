@@ -46,7 +46,7 @@ body {
 	background-color: yellow;
 }
 
-.navbar-collapse {
+.navbar-nav{ /*Dropdown menu */
   text-align: center;
 }
 
