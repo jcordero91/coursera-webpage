@@ -52,9 +52,7 @@ body {
   
 }
 
-.Dropdown-menu {
- display: block;
-}
+
 
 
 
@@ -71,16 +69,6 @@ body {
 
 
 
-@media screen and (min-width: 1024px){
-/*Style*/
 
-
-.navbar-nav {
-	display: 
-}
-
-
-
-}
 
 
