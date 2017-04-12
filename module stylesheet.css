@@ -46,9 +46,10 @@ body {
 	background-color: yellow;
 }
 
-.navbar-nav{ /*Dropdown menu */
+.navbar-nav { /*Dropdown menu */
   text-align: center;
   border-bottom: solid;
+  right
 }
 
 
