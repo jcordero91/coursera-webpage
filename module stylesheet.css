@@ -49,6 +49,7 @@ body {
 .navbar-nav { /*Dropdown menu */
   
   text-align: center;
+  display: none;
   
 }
 
