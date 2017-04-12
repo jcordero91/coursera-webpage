@@ -49,7 +49,7 @@ body {
 .navbar-nav { /*Dropdown menu */
   
   text-align: center;
-  display: 
+  display: none;
 }
 
 
@@ -69,10 +69,6 @@ body {
 
 @media screen and (min-width: 1024px){
 /*Style*/
-.navbar-nav {
-
- display: none;
-}
 
 
 }
