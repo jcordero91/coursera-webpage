@@ -63,16 +63,18 @@ body {
 	text-align: center;
 }
 
-.front{ /*navbar front */
-
-display: none;
 
 
 
+
+@media screen and (min-width: 1024px){
+/*Style*/
+.navbar-nav {
+
+ display: none;
 }
 
 
-
-
+}
 
 
