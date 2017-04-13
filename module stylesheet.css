@@ -70,5 +70,9 @@ body {
 }
 
 
+/* laptop */
+@media (max-width: 992px)
 
-
+.navbar-nav {
+	display: none;
+}
