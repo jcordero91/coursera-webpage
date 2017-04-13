@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
 	background-color: white;
@@ -76,3 +77,83 @@ body {
 .navbar-nav {
 	
 }
+=======
+
+body {
+	background-color: white;
+}
+
+
+
+
+
+/**HEADER**/
+
+#header-nav {
+	border-radius: 0;
+	border: 0;
+
+}
+
+
+
+.Menu { /* Our Menu */
+	color: black;
+	margin: 0 9 10px;
+	text-align: center;
+	border-style: solid;
+	border: 3px;
+	
+
+}
+
+
+.col-lg-12 { /* Dummy Text */
+	border-style: solid;
+	margin: 12px;
+	color: black;
+	padding: 13px;
+
+
+}
+
+
+
+.h2 {
+	font-size: 21px;
+	color: black;
+	border-style: black;
+	background-color: yellow;
+}
+
+.navbar-nav { /*Dropdown menu */
+  
+  text-align: center;
+  /*display: none;*/
+  
+}
+
+
+.col-md-12{
+	text-align: center;
+
+}
+
+.h3 {
+	text-align: center;
+}
+
+
+
+.hidden-lg-down {
+	display: none;
+}
+
+
+/* laptop */
+@media (max-width: 992px)
+
+.navbar-nav {
+	display: none;
+}
+>>>>>>> eb9309253dd74ccfe792638edf35d21ae308434e
