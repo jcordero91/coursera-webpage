@@ -54,9 +54,6 @@ body {
 }
 
 
-
-
-
 .col-md-12{
 	text-align: center;
 
@@ -68,7 +65,9 @@ body {
 
 
 
-
+.hidden-lg-down {
+	display: none;
+}
 
 
 
