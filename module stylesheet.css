@@ -65,13 +65,17 @@ body {
 
 
 .hidden-lg-down {
-	display: none;
+	
 }
 
 
-/* laptop */
-@media (max-width: 992px)
+/********* large devices only*********/
+@media (max-width: 1200px) {
+
 
 .navbar-nav {
 	
+}
+
+
 }
