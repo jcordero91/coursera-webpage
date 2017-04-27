@@ -28,6 +28,10 @@ var allCategoriesUrl =
   "https://davids-restaurant.herokuapp.com/categories.json";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
+var menuItemsUrl =
+"http://davids-restaurant.herokuapp.com/menu_items.json?category=";
+var menuItemsTitleHtml = "snippets/menu-items-title.html";
+var menuItemHtml = "snippets/menu-item.html";
 
 // Convenience function for inserting innerHTML for 'select'
 var insertHtml = function (selector, html) {
@@ -65,28 +69,29 @@ $ajaxUtils.sendGetRequest(
   false);
 });
 
-// Load the menu categories view
-dc.loadMenuCategories = function () {
+// Load the menu items view
+// 'categoryShort' is a short_name for a category
+dc.loadMenuItems = function (categoryShort) {
   showLoading("#main-content");
   $ajaxUtils.sendGetRequest(
-    allCategoriesUrl,
+    menuItemsUrl + categoryShort, 
     buildAndShowCategoriesHTML);
 };
 
 
 // Builds HTML for the categories page based on the data
 // from the server
-function buildAndShowCategoriesHTML (categories) {
+function buildAndShowCategoriesHTML (categoryMenuItems) {
   // Load title snippet of categories page
   $ajaxUtils.sendGetRequest(
-    categoriesTitleHtml,
-    function (categoriesTitleHtml) {
+    menuItemsTitleHtml,
+    function (menuItemsTitleHtml) {
       // Retrieve single category snippet
       $ajaxUtils.sendGetRequest(
-        categoryHtml,
-        function (categoryHtml) {
-          var categoriesViewHtml =
-            buildCategoriesViewHtml(categories,
+        menuItemHtml,
+        function (menuHtml) {
+          var menuViewHtml =
+            buildMenuItemsViewHtml(categories,
                                     categoriesTitleHtml,
                                     categoryHtml);
           insertHtml("#main-content", categoriesViewHtml);
